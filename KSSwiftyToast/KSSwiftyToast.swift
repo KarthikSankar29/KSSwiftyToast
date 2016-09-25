@@ -8,7 +8,7 @@
 
 import UIKit
 
-class KSSwiftyToast {
+public class KSSwiftyToast {
     // Variables
     fileprivate var title: String = ""
     fileprivate var cornerRadius: Float = 2.0
