@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/KarthikSankar29/KSSwiftyToast'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Karthik Sankar' => 'skarthikgac@gmail.com' }
-  s.source           = { :git => 'https://github.com/KarthikSankar29/KSSwiftyToast.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/KarthikSankar29/KSSwiftyToast.git'}
 
   s.ios.deployment_target = '10.0'
 
