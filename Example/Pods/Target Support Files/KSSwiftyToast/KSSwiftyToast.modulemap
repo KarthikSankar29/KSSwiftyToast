@@ -1,0 +1,6 @@
+framework module KSSwiftyToast {
+  umbrella header "KSSwiftyToast-umbrella.h"
+
+  export *
+  module * { export * }
+}

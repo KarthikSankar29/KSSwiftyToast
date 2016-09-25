@@ -1,0 +1,22 @@
+{
+  "name": "KSSwiftyToast",
+  "version": "0.1.0",
+  "summary": "A short description of KSSwiftyToast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/KSSwiftyToast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Karthik Sankar": "skarthikgac@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/KSSwiftyToast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KSSwiftyToast/Classes/**/*"
+}

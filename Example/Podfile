@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'KSSwiftyToast_Example' do
+  pod 'KSSwiftyToast', :path => '../'
+end

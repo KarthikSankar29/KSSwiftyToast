@@ -1,0 +1,6 @@
+framework module Pods_KSSwiftyToast_Example {
+  umbrella header "Pods-KSSwiftyToast_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,14 @@
+PODS:
+  - KSSwiftyToast (0.1.0)
+
+DEPENDENCIES:
+  - KSSwiftyToast (from `../`)
+
+EXTERNAL SOURCES:
+  KSSwiftyToast:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KSSwiftyToast: 9603913fcc51fd37c77aa54839d5bcb486fc5c0d
+
+COCOAPODS: 0.38.2
