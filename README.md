@@ -22,7 +22,7 @@ pod "KSSwiftyToast"
 
 ## Author
 
-Karthik Sankar, skarthikgac@gmail.com
+Karthik Sankar, karthikbootup@gmail.com
 
 ## License
 
