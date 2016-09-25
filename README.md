@@ -5,11 +5,17 @@
 [![License](https://img.shields.io/cocoapods/l/KSSwiftyToast.svg?style=flat)](http://cocoapods.org/pods/KSSwiftyToast)
 [![Platform](https://img.shields.io/cocoapods/p/KSSwiftyToast.svg?style=flat)](http://cocoapods.org/pods/KSSwiftyToast)
 
+## Screenshot
+
+![ScreenShot](https://raw.github.com/KarthikSankar29/KSSwiftyToast/master/Screenshots/toast.gif)
+
+## Requirements
+
+iOS 10 , Xcode 8 , Swift 3.0
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
@@ -22,7 +28,7 @@ pod "KSSwiftyToast"
 
 ## Author
 
-Karthik Sankar, karthikbootup@gmail.com
+Karthik Sankar, karthiksbootup@gmail.com
 
 ## License
 
