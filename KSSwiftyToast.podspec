@@ -23,7 +23,7 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/KarthikSankar29/KSSwiftyToast'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Karthik Sankar' => 'skarthikgac@gmail.com' }
+  s.author           = { 'Karthik Sankar' => 'karthiksbootup@gmail.com' }
   s.source           = { :git => 'https://github.com/KarthikSankar29/KSSwiftyToast.git', :branch => "master",
                    :tag => s.version.to_s }
 
